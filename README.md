@@ -18,18 +18,18 @@ Smartqq是用Java编写的qq的极简易版本，界面还行，功能还行。�
  ###### 界面
  ----
  <font size="5">登录</font>
-![enter description here](./images/1553347572706.png)
+![enter description here](https://github.com/qq1679781770/smartqq/blob/master/img/denglu.png)
 
 
 <font size="5">主界面</font>
-![enter description here](./images/1553347824658.png)
+![enter description here](https://github.com/qq1679781770/smartqq/blob/master/img/main.png)
 
 
 <font size="5">聊天</font>
-![enter description here](./images/1553348334192.png)
+![enter description here](https://github.com/qq1679781770/smartqq/blob/master/img/chat.png)
 
 <font size="5">文件</font>
-![enter description here](./images/1553348482376.png)
+![enter description here](https://github.com/qq1679781770/smartqq/blob/master/img/file.png)
 
 ###### 最后
 ----
